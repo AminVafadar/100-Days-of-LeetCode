@@ -26,7 +26,7 @@ Day-02/
 
 | Day | Problem | Difficulty | Solution |
 |-----|----------|-------------|-----------|
-| 01  | Two Sum | Easy | [solution](Day-01/solution.py) |
+| 01  | Palindrome Number | Easy | [solution](Day-01/solution.py) |
 | 02  | Add Two Numbers | Medium | [solution](Day-02/solution.py) |
 | ... | ... | ... | ... |
 
@@ -39,5 +39,5 @@ Day-02/
 ---
 
 ## 🔗 Connect
-- **LeetCode Profile**: https://leetcode.com/u/AminVafadar/
-- **GitHub Profile**: https://github.com/AminVafadar
+- **LeetCode Profile**: [LeetCode] (https://leetcode.com/u/AminVafadar/)
+- **GitHub Profile**: [GitHub] (https://github.com/AminVafadar)
