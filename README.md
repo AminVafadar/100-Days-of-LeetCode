@@ -43,5 +43,5 @@ Day-02/
 ---
 
 ## 🔗 Connect
-- **LeetCode Profile**: [LeetCode] (https://leetcode.com/u/AminVafadar/)
-- **GitHub Profile**: [GitHub] (https://github.com/AminVafadar)
+- **LeetCode Profile**: [LeetCode](https://leetcode.com/u/AminVafadar/)
+- **GitHub Profile**: [GitHub](https://github.com/AminVafadar)
